@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media.tenor.com/tVFA2r1OhAaAAAAi/dose-dosecat.gif" width="130" />
+  <img src="https://media.tenor.com/3V2VPy3Yj_cAAAAi/dose-dosecat.gif" width="120" />
 </p>
 
 <h1 align="center">
-  🐱 Meow-lo, I'm [Nama Kamu]
+  🐱 Meow-lo, I'm muts
 </h1>
 
 <h3 align="center">
@@ -21,28 +21,10 @@
 I'm a passionate Full-Stack Engineer with a love for building scalable, API-first architectures.  
 I treat code like a cat treats its territory — clean, well-organized, and fiercely protected.
 
-<table>
-<tr>
-<td>
-
-🔭 **Currently building**  
-High-performance backend systems with FastAPI & ReactJS
-
-🧠 **Learning**  
-AI-driven automation & serverless architectures
-
-⚡ **Philosophy**  
-Ship fast, iterate faster, debug rarely
-
-🐾 **Fun fact**  
-I hate bugs as much as cats hate water
-
-</td>
-<td align="center">
-  <img src="https://media.tenor.com/tVFA2r1OhAaAAAAi/dose-dosecat.gif" width="100" />
-</td>
-</tr>
-</table>
+- 🔭 **Currently building:** High-performance backend systems with FastAPI & ReactJS  
+- 🧠 **Learning:** AI-driven automation & serverless architectures  
+- ⚡ **Philosophy:** Ship fast, iterate faster, debug rarely  
+- 🐾 **Fun fact:** I hate bugs as much as cats hate water
 
 ---
 
@@ -88,5 +70,5 @@ I hate bugs as much as cats hate water
 {
   "learning": ["Kafka", "Terraform", "AI Agents"],
   "building": "Scalable microservices with FastAPI + React",
-  "open_to": "Collaborations & impactful projects"
+  "looking_for": "Impactful projects & open-source collaboration"
 }
