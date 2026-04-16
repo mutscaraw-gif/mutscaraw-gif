@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/3V2VPy3Yj_cAAAAi/dose-dosecat.gif" width="120" />
+  <img src="https://media.tenor.com/tVFA2r1OhAaAAAAi/dose-dosecat.gif" width="130" />
 </p>
 
 <h1 align="center">
@@ -21,10 +21,28 @@
 I'm a passionate Full-Stack Engineer with a love for building scalable, API-first architectures.  
 I treat code like a cat treats its territory — clean, well-organized, and fiercely protected.
 
-- 🔭 **Currently building:** High-performance backend systems with FastAPI & ReactJS  
-- 🧠 **Learning:** AI-driven automation & serverless architectures  
-- ⚡ **Philosophy:** Ship fast, iterate faster, debug rarely  
-- 🐾 **Fun fact:** I hate bugs as much as cats hate water
+<table>
+<tr>
+<td>
+
+🔭 **Currently building**  
+High-performance backend systems with FastAPI & ReactJS
+
+🧠 **Learning**  
+AI-driven automation & serverless architectures
+
+⚡ **Philosophy**  
+Ship fast, iterate faster, debug rarely
+
+🐾 **Fun fact**  
+I hate bugs as much as cats hate water
+
+</td>
+<td align="center">
+  <img src="https://media.tenor.com/tVFA2r1OhAaAAAAi/dose-dosecat.gif" width="100" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -70,5 +88,5 @@ I treat code like a cat treats its territory — clean, well-organized, and fier
 {
   "learning": ["Kafka", "Terraform", "AI Agents"],
   "building": "Scalable microservices with FastAPI + React",
-  "looking_for": "Impactful projects & open-source collaboration"
+  "open_to": "Collaborations & impactful projects"
 }
